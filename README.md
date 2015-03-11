@@ -12,3 +12,4 @@ If any ball hit the ground, you lose.
 
 Current bugs:
 1. If a ball and your mouse have the same coordinates (if they touch), the program crashes.
+2. When you try to create a vertical line a float division by zero error crashes the program
